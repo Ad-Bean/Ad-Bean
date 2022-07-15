@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 <!-- ### Github Stats   -->
 
 <div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ad-Bean&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ad-Bean&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
 </div>
 
 <!-- </td><td valign="top" width="50%">
