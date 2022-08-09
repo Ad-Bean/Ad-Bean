@@ -20,23 +20,23 @@ Here are some ideas to get you started:
 <a href="https://github.com/Ad-Bean" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-   -->
+-->
 
 
 <!-- ### Github Stats   -->
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Ad-Bean&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
+<!--
+<div style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+">
 </div>
+-->
+ 
+[![Adbean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad-bean&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=ad-bean&count_private=true&show_icons=true)
 
-<!-- </td><td valign="top" width="50%">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-bean&hide=Jupyter%20Notebook&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-bean&hide=Jupyter%20Notebook&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-Bean&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
- -->
 
 <!-- ## Languages and Tools  
 <div align="center">  
@@ -65,4 +65,5 @@ Here are some ideas to get you started:
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Ad-Bean&&style=flat-square)   -->
+![Profile views counter](https://komarev.com/ghpvc/?username=Ad-Bean&&style=flat-square) 
+  -->
