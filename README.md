@@ -36,6 +36,17 @@ Here are some ideas to get you started:
 [![Adbean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad-bean&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=ad-bean&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 25 August 2022 - To: 26 August 2022
+
+Total Time: 3 hrs 32 mins
+
+TypeScript   2 hrs 26 mins   >>>>>>>>>>>>>>>>>--------   68.84 %
+JavaScript   36 mins         >>>>---------------------   17.36 %
+CSS          29 mins         >>>----------------------   13.80 %
+```
+
 <!--END_SECTION:waka-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-bean&hide=Jupyter%20Notebook&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-bean&hide=Jupyter%20Notebook&layout=compact)
