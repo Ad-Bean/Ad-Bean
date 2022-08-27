@@ -35,8 +35,11 @@ Here are some ideas to get you started:
  
 [![Adbean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad-bean&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=ad-bean&count_private=true&show_icons=true)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-bean&hide=Jupyter%20Notebook&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-bean&hide=Jupyter%20Notebook&layout=compact)
-
+-->
 
 <!-- ## Languages and Tools  
 <div align="center">  
