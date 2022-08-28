@@ -7,8 +7,8 @@
 - 💬 Blog(Chinese) at [ad-bean.github.io](https://ad-bean.github.io) 
 - 📫 Reach me by [sending me an email](mailto:adbeanx@outlook.com)
 
-<a href="https://github.com/Ad-Bean?tab=repositories">
-  <img align="right" style="width:43%;" src="https://github-readme-stats.vercel.app/api?username=Ad-Bean&show_icons=true&hide_border=true&count_private=true" />
+<a style="margin-bottom: 12px;" href="https://github.com/Ad-Bean?tab=repositories">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Ad-Bean&show_icons=true&hide_border=true&count_private=true" />
 </a>
 
 <!--
