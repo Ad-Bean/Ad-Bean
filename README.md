@@ -1,5 +1,15 @@
-### Hey 👋, I'm Ad Bean!  
 
+
+### Hi, I'm AdBean 👋
+<!--
+- 🔭 Currently working on Singularity Data (As a Front-End Intern)
+- 💫 Interested in Music, Designing...And any other pretty things
+-->
+<!--
+- 🏠 Home page at [ad-bean.github.io](https://ad-bean.github.io)
+- 💬 Blog at [ad-bean.github.io](https://ad-bean.github.io)
+- 📩 Reach me by [sending me an email](mailto:adbeanx@outlook.com)
+-->
 
 <!--
 **Ad-Bean/Ad-Bean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
