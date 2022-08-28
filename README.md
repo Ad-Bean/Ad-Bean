@@ -1,14 +1,18 @@
 
 
 ### Hi, I'm AdBean 👋
+
+- 🔭 Currently working on [RisingWave Labs](https://www.risingwave.com) (As Front-End Intern)
+- 🌱 I’m currently learning Backend Development, Go and Design
+- 💬 Blog(Chinese) at [ad-bean.github.io](https://ad-bean.github.io) 
+- 📫 Reach me by [sending me an email](mailto:adbeanx@outlook.com)
+
+<a href="https://github.com/Ad-Bean?tab=repositories">
+  <img align="right" style="width:43%;" src="https://github-readme-stats.vercel.app/api?username=Ad-Bean&show_icons=true&hide_border=true&count_private=true" />
+</a>
+
 <!--
-- 🔭 Currently working on Singularity Data (As a Front-End Intern)
-- 💫 Interested in Music, Designing...And any other pretty things
--->
-<!--
-- 🏠 Home page at [ad-bean.github.io](https://ad-bean.github.io)
-- 💬 Blog at [ad-bean.github.io](https://ad-bean.github.io)
-- 📩 Reach me by [sending me an email](mailto:adbeanx@outlook.com)
+[![Adbean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad-bean&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=ad-bean&count_private=true&show_icons=true)
 -->
 
 <!--
@@ -21,7 +25,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫📩 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -43,7 +47,7 @@ Here are some ideas to get you started:
 </div>
 -->
  
-[![Adbean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad-bean&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=ad-bean&count_private=true&show_icons=true)
+
 
 <!--START_SECTION:waka-->
 
