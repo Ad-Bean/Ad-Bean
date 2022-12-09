@@ -2,8 +2,8 @@
 
 ### Hi, I'm AdBean 👋
 
-- 🔭 Currently working on [RisingWave Labs](https://www.risingwave.com) (As Front-End Intern)
-- 🌱 I’m currently learning Backend Development, Go and Design
+- 🔭 Currently working on [RisingWave Labs](https://www.risingwave.com) (Software Engineer Intern)
+- 🌱 I’m currently learning Backend Development, Go and Docker
 - 💬 Blog(Chinese) at [ad-bean.github.io](https://ad-bean.github.io) 
 - 📫 Reach me by [sending me an email](mailto:adbeanx@outlook.com)
 
