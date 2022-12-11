@@ -52,15 +52,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 August 2022 - To: 08 December 2022
+From: 25 August 2022 - To: 09 December 2022
 
-Total Time: 260 hrs 58 mins
+Total Time: 264 hrs 8 mins
 
-TypeScript        104 hrs 18 mins >>>>>>>>>>---------------   39.97 %
-Go                87 hrs 50 mins  >>>>>>>>-----------------   33.66 %
-CSS               11 hrs 19 mins  >------------------------   04.34 %
-Markdown          11 hrs 6 mins   >------------------------   04.26 %
-Other             6 hrs 38 mins   >------------------------   02.55 %
+TypeScript        105 hrs 13 mins >>>>>>>>>>---------------   39.83 %
+Go                88 hrs 16 mins  >>>>>>>>-----------------   33.42 %
+CSS               11 hrs 19 mins  >------------------------   04.29 %
+Markdown          11 hrs 6 mins   >------------------------   04.21 %
+JavaScript        7 hrs 23 mins   >------------------------   02.80 %
+Other             6 hrs 45 mins   >------------------------   02.56 %
 ```
 
 <!--END_SECTION:waka-->
