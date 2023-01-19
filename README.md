@@ -8,7 +8,7 @@
 - 📫 Reach me by [sending me an email](mailto:adbeanx@outlook.com)
 
 <a style="margin-bottom: 12px;" href="https://github.com/Ad-Bean?tab=repositories">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Ad-Bean&show_icons=true&hide_border=true&count_private=true" />
+  <img  src="https://readme-stats-ad-bean.vercel.app/api?username=Ad-Bean&show_icons=true&hide_border=true&count_private=true" />
 </a>
 
 <!--
