@@ -3,7 +3,6 @@
 ### Hi, I'm AdBean 👋
 
 - 🔭 I'm currently a master's student in computer science. I'm expected to graduate in May 2025.
-<!-- - Currently working on [RisingWave Labs](https://www.risingwave.com) (Software Engineer Intern) -->
 - 🌱 I'm currently learning Backend Development, Go and Docker
 - 💬 Blog(Chinese) at [ad-bean.github.io](https://ad-bean.github.io) 
 - 📫 Reach me by [sending me an email](mailto:adbeanx@outlook.com)
@@ -20,7 +19,7 @@
 **Ad-Bean/Ad-Bean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<!-- - Currently working on [RisingWave Labs](https://www.risingwave.com) (Software Engineer Intern) -->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
