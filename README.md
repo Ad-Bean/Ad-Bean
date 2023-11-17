@@ -2,8 +2,9 @@
 
 ### Hi, I'm AdBean 👋
 
-- 🔭 Currently working on [RisingWave Labs](https://www.risingwave.com) (Software Engineer Intern)
-- 🌱 I’m currently learning Backend Development, Go and Docker
+- 🔭 I'm currently a master's student in computer science. I'm expected to graduate in May 2025.
+<!-- - Currently working on [RisingWave Labs](https://www.risingwave.com) (Software Engineer Intern) -->
+- 🌱 I'm currently learning Backend Development, Go and Docker
 - 💬 Blog(Chinese) at [ad-bean.github.io](https://ad-bean.github.io) 
 - 📫 Reach me by [sending me an email](mailto:adbeanx@outlook.com)
 
