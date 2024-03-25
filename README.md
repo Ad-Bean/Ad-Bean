@@ -3,7 +3,7 @@
 ### Hi, I'm AdBean 👋
 
 - 🔭 I'm currently a master's student in computer science. I'm expected to graduate in May 2025.
-- 🌱 I'm currently learning Backend Development, Go and Docker
+- 🌱 I'm learning Distributed Systems, Rust, and Database Systems.
 - 💬 Blog(Chinese) at [ad-bean.github.io](https://ad-bean.github.io) 
 - 📫 Reach me by [sending me an email](mailto:adbeanx@outlook.com)
 
