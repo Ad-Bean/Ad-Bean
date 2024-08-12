@@ -52,20 +52,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2022 - To: 09 August 2024
+From: 25 August 2022 - To: 10 August 2024
 
-Total Time: 1,714 hrs 58 mins
+Total Time: 1,717 hrs 33 mins
 
-Go                529 hrs 13 mins >>>>>>>>-----------------   30.86 %
-TypeScript        280 hrs 17 mins >>>>---------------------   16.34 %
-C++               221 hrs 15 mins >>>----------------------   12.90 %
-JavaScript        167 hrs 3 mins  >>-----------------------   09.74 %
-Markdown          139 hrs 35 mins >>-----------------------   08.14 %
-Python            62 hrs 56 mins  >------------------------   03.67 %
-YAML              46 hrs 52 mins  >------------------------   02.73 %
-Other             46 hrs 8 mins   >------------------------   02.69 %
+Go                530 hrs 42 mins >>>>>>>>-----------------   30.90 %
+TypeScript        280 hrs 18 mins >>>>---------------------   16.32 %
+C++               221 hrs 15 mins >>>----------------------   12.88 %
+JavaScript        167 hrs 3 mins  >>-----------------------   09.73 %
+Markdown          139 hrs 35 mins >>-----------------------   08.13 %
+Python            62 hrs 58 mins  >------------------------   03.67 %
+YAML              47 hrs 2 mins   >------------------------   02.74 %
+Other             46 hrs 9 mins   >------------------------   02.69 %
 CSS               44 hrs 8 mins   >------------------------   02.57 %
-Bash              26 hrs 9 mins   -------------------------   01.53 %
+Bash              26 hrs 9 mins   -------------------------   01.52 %
 ```
 
 <!--END_SECTION:waka-->
