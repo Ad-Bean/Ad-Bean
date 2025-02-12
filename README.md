@@ -2,23 +2,22 @@
 
 ### Hi, I'm AdBean 👋
 
-- 🔭 I'm currently pursuing a Master’s in Computer Science, expected to graduate in May 2025.
+- 🔭 I'm currently pursuing a Master’s in Computer Science, graduating in May 2025.
 
 - 🌱 I'm learning Machine Learning Systems, Deep Learning Systems, and Storage Engines.
 
-- 💬 Check out my blog (in Chinese) at [ad-bean.github.io](https://ad-bean.github.io) .
+- 💬 Check out my blog (in Chinese) at [ad-bean.github.io](https://ad-bean.github.io).
 
 <!-- 
-- 📫 Reach me by [sending me an email](mailto:adbeanx@outlook.com)
-
-
 <a style="margin: 0 12px; text-align: center;" href="https://github.com/Ad-Bean?tab=repositories">
   <img  src="https://readme-stats-ad-bean.vercel.app/api?username=Ad-Bean&show_icons=true&hide_border=true&count_private=true" />
 </a>
--->
 
-<!--
-[![Adbean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad-bean&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=ad-bean&count_private=true&show_icons=true)
+
+- 📫 Reach me by [sending me an email](mailto:adbeanx@outlook.com)
+
+
+[![Adbean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad-bean&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Ad-Bean&count_private=true&show_icons=true)
 -->
 
 <!--
