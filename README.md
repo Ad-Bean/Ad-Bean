@@ -3,13 +3,13 @@ Hi, I'm AdBean — Software Engineer, working on [RisingWave](https://risingwave
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2022 - To: 10 October 2026
+From: 25 August 2022 - To: 11 October 2026
 
-Total Time: 3,941 hrs 38 mins
+Total Time: 3,942 hrs
 
-Go                            1,275 hrs 2 mins      >>>>>>>>-----------------   32.35 %
+Go                            1,275 hrs 13 mins     >>>>>>>>-----------------   32.35 %
 TypeScript                    561 hrs 51 mins       >>>>---------------------   14.25 %
-Markdown                      544 hrs 17 mins       >>>----------------------   13.81 %
+Markdown                      544 hrs 27 mins       >>>----------------------   13.81 %
 C++                           459 hrs 50 mins       >>>----------------------   11.67 %
 Other                         190 hrs 15 mins       >------------------------   04.83 %
 JavaScript                    176 hrs 3 mins        >------------------------   04.47 %
